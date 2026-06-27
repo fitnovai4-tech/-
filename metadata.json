@@ -1,0 +1,6 @@
+{
+  "name": "Smart Notes",
+  "description": "تطبيق ملاحظات ذكي مع دعم الرسم، تحرير الـ PDF، التسجيل الصوتي، والذكاء الاصطناعي التوليدي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
